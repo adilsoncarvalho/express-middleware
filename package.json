@@ -8,9 +8,11 @@
     "underscore": "^1.8.3"
   },
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon index.js",
+    "test": "jest"
   },
   "devDependencies": {
+    "jest": "^22.0.4",
     "nodemon": "^1.14.7"
   }
 }
