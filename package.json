@@ -1,0 +1,16 @@
+{
+  "name": "express-middleware",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "underscore": "^1.8.3"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.7"
+  }
+}
