@@ -1,5 +1,7 @@
 # express-middleware
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/adilsoncarvalho/express-middleware.svg)](https://greenkeeper.io/)
+
 Just fooling around to see how express middlewares work.
 
 Other place you'll see something similar is at:
